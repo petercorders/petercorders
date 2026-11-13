@@ -25,6 +25,12 @@
 
 **Also building** · [Kotlin 블로그 프로젝트 ↗](https://github.com/petercorders/blog)
 
+### Activity
+
+<a href="https://github.com/petercorders?tab=overview">
+  <img src="./assets/activity.svg" width="100%" alt="최근 31일간 GitHub 기여 활동 — 매일 갱신되는 주황색 그래프" />
+</a>
+
 ---
 
 <sub><code>~/toolbox</code> &nbsp; TypeScript · Electron · Kotlin · Unity</sub>
