@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Peter — Build. Experiment. Iterate.</title>
+<desc id="desc">An orange P monogram on a near-black background, matching Peter's GitHub avatar, with a small terminal prompt.</desc>
+<rect width="1200" height="360" rx="16" fill="#0b0e16"/>
+<path d="M38 30H1162" stroke="#272a30"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13"><text x="40" y="57" fill="#7e8189">peter@github:~</text><text x="1160" y="57" text-anchor="end" fill="#f9a522">●</text></g>
+<g transform="translate(60 100) scale(.72)"><path fill="#f9a522" fill-rule="evenodd" d="M0 0H95C165 0 210 45 210 111C210 178 164 220 95 220H75V320H0ZM75 66V154H96C122 154 140 138 140 110C140 83 122 66 96 66Z"/></g>
+<path d="M265 113V304" stroke="#2d2b27"/>
+<text x="310" y="165" fill="#f9a522" font-size="14" letter-spacing="3" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">BUILD / EXPERIMENT / ITERATE</text>
+<text x="306" y="244" fill="#f4f1ea" font-size="76" font-weight="750" letter-spacing="-3" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">Peter<tspan fill="#f9a522">.</tspan></text>
+<text x="310" y="292" fill="#98979a" font-size="20" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">Ideas into things that work.</text>
+<text x="1124" y="294" text-anchor="end" fill="#f9a522" opacity=".55" font-size="42" font-family="ui-monospace,Menlo,monospace">&gt;_</text>
+</svg>
